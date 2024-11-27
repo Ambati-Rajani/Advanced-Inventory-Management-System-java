@@ -1,6 +1,4 @@
 # Advanced-Inventory-Management-System-java
-
-
 This Java-based **Inventory Management System** is a console application designed to manage an inventory of items. It supports features like adding, updating, and deleting items, viewing items by category, retrieving top items by quantity, and merging inventories.
 
 ## Features
